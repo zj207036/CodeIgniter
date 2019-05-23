@@ -60,6 +60,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*
  * ------------------------------------------------------
  *  Load the framework constants
+ *  引入框架常量
  * ------------------------------------------------------
  */
 	if (file_exists(APPPATH.'config/'.ENVIRONMENT.'/constants.php'))
@@ -75,6 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*
  * ------------------------------------------------------
  *  Load the global functions
+ *  加载公共函数
  * ------------------------------------------------------
  */
 	require_once(BASEPATH.'core/Common.php');
@@ -83,6 +85,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /*
  * ------------------------------------------------------
  * Security procedures
+ * 进行全局变量安全处理
  * ------------------------------------------------------
  */
 
@@ -133,6 +136,7 @@ if ( ! is_php('5.4'))
 /*
  * ------------------------------------------------------
  *  Define a custom error handler so we can log PHP errors
+ *  自定义错误、异常、程序完成函数
  * ------------------------------------------------------
  */
 	set_error_handler('_error_handler');
@@ -142,6 +146,7 @@ if ( ! is_php('5.4'))
 /*
  * ------------------------------------------------------
  *  Set the subclass_prefix
+ *  获取核心累扩展前缀配置
  * ------------------------------------------------------
  *
  * Normally the "subclass_prefix" is set in the config file.
@@ -163,6 +168,7 @@ if ( ! is_php('5.4'))
 /*
  * ------------------------------------------------------
  *  Should we use a Composer autoloader?
+ *  根据配置加载composer拓展的autoload.php文件
  * ------------------------------------------------------
  */
 	if ($composer_autoload = config_item('composer_autoload'))
@@ -217,7 +223,6 @@ if ( ! is_php('5.4'))
  *
  */
 	$CFG =& load_class('Config', 'core');
-
 	// Do we have any manually set config items in the index.php file?
 	if (isset($assign_to_config) && is_array($assign_to_config))
 	{

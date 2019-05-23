@@ -73,7 +73,7 @@ if ( ! function_exists('is_php'))
 	}
 }
 
-// ------------------------------------------------------------------------
+// --------目录和文件的写入测试----------------------------------------------------------------
 
 if ( ! function_exists('is_really_writable'))
 {
@@ -150,7 +150,7 @@ if ( ! function_exists('load_class'))
 
 		$name = FALSE;
 
-		// Look for the class first in the local application/libraries folder
+		// Look for the class first in the local application/libraries folder 如果应用目录下有和system中的同名的类，优先引入自己定义的
 		// then in the native system/libraries folder
 		foreach (array(APPPATH, BASEPATH) as $path)
 		{
@@ -198,7 +198,7 @@ if ( ! function_exists('load_class'))
 	}
 }
 
-// --------------------------------------------------------------------
+// 跟踪已加载库的轨道，这个函数被调用的地方是load_class,记录哪些类是被加载过的
 
 if ( ! function_exists('is_loaded'))
 {

@@ -59,7 +59,7 @@
  *---------------------------------------------------------------
  * ERROR REPORTING
  *---------------------------------------------------------------
- *
+ * 设置框架应用的环境状态以及在该状态下的错误输出情况
  * Different environments will require different levels of error reporting.
  * By default development will show errors but testing and live will hide them.
  */
@@ -88,6 +88,10 @@ switch (ENVIRONMENT)
 		echo 'The application environment is not set correctly.';
 		exit(1); // EXIT_ERROR
 }
+
+/*
+ * 配置系统、应用、视图等程序目录以及得到其路径
+ */
 
 /*
  *---------------------------------------------------------------
@@ -190,6 +194,9 @@ switch (ENVIRONMENT)
  * ---------------------------------------------------------------
  */
 
+/*
+ *  系统、应用、视图等目录的正确性验证
+ */
 	// Set the current directory correctly for CLI requests
 	if (defined('STDIN'))
 	{
@@ -306,6 +313,7 @@ switch (ENVIRONMENT)
 	define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
 
 /*
+ * 载入框架核心文件，启动框架
  * --------------------------------------------------------------------
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------

@@ -1,0 +1,86 @@
+{"level":"DEBUG","dates":"2019-04-28 01:57:05","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-04-28 01:57:05","messg":"No URI present. Default controller set."}
+{"level":"DEBUG","dates":"2019-04-28 01:57:05","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-04-28 14:06:42","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-04-28 14:06:42","messg":"No URI present. Default controller set."}
+{"level":"DEBUG","dates":"2019-04-28 14:06:42","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-04-30 03:15:04","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-04-30 03:15:04","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-04-30 03:15:04","messg":"404 Page Not Found: Admin\/login"}
+{"level":"DEBUG","dates":"2019-05-17 05:41:39","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-17 05:41:39","messg":"No URI present. Default controller set."}
+{"level":"DEBUG","dates":"2019-05-17 05:41:39","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:39:29","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:39:29","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:43:18","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:43:18","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:47:46","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:47:46","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 18:47:46","messg":"Severity: Notice --> Undefined variable: db \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 8"}
+{"level":"DEBUG","dates":"2019-05-22 10:49:54","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:49:54","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 18:49:54","messg":"Severity: Notice --> Undefined variable: db \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 8"}
+{"level":"DEBUG","dates":"2019-05-22 10:50:12","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:50:12","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:51:32","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:51:32","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:53:02","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:53:02","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:24","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:24","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:29","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:29","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:50","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:58:50","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 10:59:08","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 10:59:08","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 18:59:08","messg":"Severity: Warning --> fopen(\/Users\/zuojun\/www\/CodeIgniter\/application\/excel\/aaa2019-05-22.csv): failed to open stream: No such file or directory \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 50"}
+{"level":"ERROR","dates":"2019-05-22 18:59:08","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 58"}
+{"level":"ERROR","dates":"2019-05-22 18:59:08","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 66"}
+{"level":"ERROR","dates":"2019-05-22 18:59:08","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 66"}
+{"level":"ERROR","dates":"2019-05-22 18:59:08","messg":"Severity: Warning --> fclose() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 68"}
+{"level":"DEBUG","dates":"2019-05-22 18:59:08","messg":"Total execution time: 0.0220"}
+{"level":"DEBUG","dates":"2019-05-22 11:00:28","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:00:28","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 19:00:28","messg":"Severity: Warning --> fopen(\/Users\/zuojun\/www\/CodeIgniter\/application\/excel\/aaa2019-05-22.csv): failed to open stream: No such file or directory \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 50"}
+{"level":"ERROR","dates":"2019-05-22 19:00:28","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 58"}
+{"level":"ERROR","dates":"2019-05-22 19:00:28","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 66"}
+{"level":"ERROR","dates":"2019-05-22 19:00:28","messg":"Severity: Warning --> fputcsv() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 66"}
+{"level":"ERROR","dates":"2019-05-22 19:00:28","messg":"Severity: Warning --> fclose() expects parameter 1 to be resource, boolean given \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 68"}
+{"level":"DEBUG","dates":"2019-05-22 19:00:28","messg":"Total execution time: 0.0131"}
+{"level":"DEBUG","dates":"2019-05-22 11:01:24","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:01:24","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:01:24","messg":"Total execution time: 0.0237"}
+{"level":"DEBUG","dates":"2019-05-22 11:06:44","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:06:44","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 19:06:44","messg":"Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-05-22' at line 1 - Invalid query: select * from aaa2019-05-22"}
+{"level":"DEBUG","dates":"2019-05-22 11:07:24","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:07:24","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: name \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 62"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: charaaa \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 63"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: money \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 64"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: name \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 62"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: charaaa \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 63"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: money \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 64"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: name \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 62"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: charaaa \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 63"}
+{"level":"ERROR","dates":"2019-05-22 19:07:24","messg":"Severity: Notice --> Undefined index: money \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 64"}
+{"level":"DEBUG","dates":"2019-05-22 19:07:24","messg":"Total execution time: 0.0233"}
+{"level":"DEBUG","dates":"2019-05-22 11:10:02","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:10:02","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:10:02","messg":"Total execution time: 0.0146"}
+{"level":"DEBUG","dates":"2019-05-22 11:15:32","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:15:32","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"ERROR","dates":"2019-05-22 11:15:32","messg":"Severity: error --> Exception: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) \/Users\/zuojun\/www\/CodeIgniter\/application\/controllers\/Welcome.php 62"}
+{"level":"DEBUG","dates":"2019-05-22 11:21:11","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:21:11","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:21:11","messg":"Total execution time: 0.0150"}
+{"level":"DEBUG","dates":"2019-05-22 11:26:04","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:26:04","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:26:04","messg":"Total execution time: 0.0481"}
+{"level":"DEBUG","dates":"2019-05-22 11:27:41","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:27:41","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:27:41","messg":"Total execution time: 0.0092"}
+{"level":"DEBUG","dates":"2019-05-22 11:29:53","messg":"UTF-8 Support Enabled"}
+{"level":"DEBUG","dates":"2019-05-22 11:29:53","messg":"Global POST, GET and COOKIE data sanitized"}
+{"level":"DEBUG","dates":"2019-05-22 19:29:53","messg":"Total execution time: 0.0132"}

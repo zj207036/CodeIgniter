@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('form_validation','my_form_validation','bcrypt');
 
 /*
 | -------------------------------------------------------------------
@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array();
+$autoload['helper'] = array('common_helper','jwt','language');
 
 /*
 | -------------------------------------------------------------------
@@ -118,6 +118,7 @@ $autoload['config'] = array();
 |
 */
 $autoload['language'] = array();
+//$autoload['language'] = array('info','db','form_validation','upload','other');
 
 /*
 | -------------------------------------------------------------------
